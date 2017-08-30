@@ -1,0 +1,7 @@
++ Bản chất của design pattern
++ Tách cốt ra để trị, Theo từng modun, tùy vào những đặc tính của vấn đề mà chọn mẫu desgin cho phù hợp
+***************
++ Cố gắng tách những thành phần dễ thay đổi ra đối tượng riêng biệt, Xậy dựng nó
++ giúp chúng ta gọi new đối tượng khi cần, thay vì setup, hay override đối tượng ở các lớp thấp
++ tránh được việc khó kiểm soát
++ Luôn code để dễ mở rộng, và thay đổi
