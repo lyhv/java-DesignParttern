@@ -1,4 +1,4 @@
-package Iterator_composite;
+package iterator;
 /**
  * 
  * @author Ho Van Ly

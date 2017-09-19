@@ -1,4 +1,4 @@
-package Iterator_composite;
+package iterator;
 
 import java.util.Iterator;
 
