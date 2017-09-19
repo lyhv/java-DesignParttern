@@ -1,5 +1,7 @@
 package adapter;
 
-public class ProductNameInterface {
+public interface ProductNameInterface {
+	String getName();
 
+	void setName(String name);
 }
