@@ -3,6 +3,10 @@ package singleton;
 public class UserUtils {
 	private static UserUtils oursInstance;
 
+	private UserUtils() {
+		// No-op
+	}
+
 	public static UserUtils instance() {
 		if (oursInstance == null) {
 			oursInstance = new UserUtils();
