@@ -2,7 +2,7 @@ package proxy;
 
 public class ReadFileProxy implements ReadfileListener {
 	private String name;
-	private ReadFileModle readFileModle;
+	private ReadFileModule readFileModule;
 
 	public ReadFileProxy(String name) {
 		this.name = name;
@@ -10,10 +10,10 @@ public class ReadFileProxy implements ReadfileListener {
 
 	public String readFile() {
 		if ("HoVanLy".equals(name)) {
-			if (readFileModle == null) {
-				readFileModle = new ReadFileModle();
+			if (readFileModule == null) {
+				readFileModule = new ReadFileModule();
 			}
-			return this.name + ": " + readFileModle.readFile();
+			return this.name + ": " + readFileModule.readFile();
 		}
 		return this.name + ": can't read this file";
 	}

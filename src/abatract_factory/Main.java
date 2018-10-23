@@ -12,7 +12,7 @@ package abatract_factory;
 public class Main {
 	public static void main(String[] args) {
 		FactoryConnection mFactoryConnection = new FactoryConnection();
-		Connection connection = mFactoryConnection.createContion("Oracle");
+		Connection connection = mFactoryConnection.createConnection("Oracle");
 		System.out.println(connection.description());
 	}
 }

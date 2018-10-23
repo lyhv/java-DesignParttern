@@ -1,5 +1,5 @@
 package proxy;
 
 public interface ReadfileListener {
-	String readFile();
+    String readFile();
 }
