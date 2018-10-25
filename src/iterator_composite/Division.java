@@ -1,4 +1,4 @@
-package iterator;
+package iterator_composite;
 
 import java.util.Iterator;
 
@@ -29,6 +29,7 @@ public class Division extends Corporate {
 	@Override
 	public void print() {
 		Iterator inIterator = interator();
+		System.out.print(name + "\n");
 		while (inIterator.hasNext()) {
 			Corporate c = (Corporate) inIterator.next();
 			c.print();

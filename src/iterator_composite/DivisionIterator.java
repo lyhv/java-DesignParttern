@@ -1,7 +1,6 @@
-package iterator;
+package iterator_composite;
 
 import java.util.Iterator;
-import java.util.function.Consumer;
 
 public class DivisionIterator implements Iterator {
 	private Corporate[] corporates;
