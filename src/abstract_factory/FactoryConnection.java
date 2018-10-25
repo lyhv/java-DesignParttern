@@ -1,4 +1,4 @@
-package abatract_factory;
+package abstract_factory;
 
 public class FactoryConnection extends BaseFactoryConnection {
 

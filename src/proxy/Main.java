@@ -6,7 +6,6 @@ package proxy;
  * để kiểm soát hoạc hỗ trợ quá trình truy xuất của đối tượng. đói tượng thay thế
  * gọi là proxy
  * Proxy Pattern là mẫu thiết kế mà ở đó tất cả các truy cập trực tiếp đến một đối tượng nào đó sẽ được chuyển hướng vào một đối tượng trung gian (Proxy Class).
- * <p>
  * Khi nào dùng nó?
  * - Khi bạn muốn bảo vệ quyền truy xuất vào các chức năng (phương thức) của thực thể.
  * - Bổ sung trước khi thực hiện phương thức của thực thể.
