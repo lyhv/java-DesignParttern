@@ -1,4 +1,4 @@
-## Introduction
+## Introduction (23 pattenrs)
 ### Creational Design patterns
 - [x] Singleton `****`
 - [x] Factory method `****`
@@ -19,7 +19,7 @@
 - [ ] Chain of Responsibility `**`
 - [x] Observer `*****`
 - [x] Strategy `****`
-- [ ] Command `****`
+- [x] Command `****`
 - [ ] State `***`
 - [ ] Visitor `*`
 - [ ] Interpreter 
