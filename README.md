@@ -1,7 +1,7 @@
 ## Introduction (23 pattenrs)
 ### Creational Design patterns
 - [x] Singleton `****`
-- [x] Factory method `****`
+- [x] Factory Method `****`
 - [x] Abstract Factory `*****`
 - [x] Builder `**`
 - [ ] Prototype `***`

@@ -177,3 +177,5 @@ hs_err_pid*
 .history
 
 # End of https://www.gitignore.io/api/java,visualstudiocode
+.settings
+.vscode
