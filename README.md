@@ -19,7 +19,7 @@
 - [ ] Chain of Responsibility `**`
 - [x] Observer `*****`
 - [x] Strategy `****`
-- [ ] Command `****`
+- [x] Command `****`
 - [ ] State `***`
 - [ ] Visitor `*`
 - [ ] Interpreter 
