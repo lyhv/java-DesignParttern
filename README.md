@@ -1,4 +1,4 @@
-## Introduction
+## Introduction (23 pattenrs)
 ### Creational Design patterns
 - [x] Singleton `****`
 - [x] Factory method `****`

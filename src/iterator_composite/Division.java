@@ -4,7 +4,7 @@ import java.util.Iterator;
 
 /**
  * 
- * @author asiantech Tao Một nhánh cho nhân viên
+ * @author  Tao Một nhánh cho nhân viên
  */
 public class Division extends Corporate {
 	private Corporate[] mCorporate = new Corporate[100];
